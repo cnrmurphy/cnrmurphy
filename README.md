@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Conor
+I am a software engineer and enjoy working in Go and Rust. I am interested in systems development.
+If you are interested in working with me, you can grab my resume from your terminal like this!
+```
+printf "resume\nbye\n" | nc cnrmurphy.com 2003 | tee cnr_resume.txt 
+```
 
 <!--
 **cnrmurphy/cnrmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
