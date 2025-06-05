@@ -5,6 +5,8 @@ If you are interested in working with me, you can grab my resume from your termi
 printf "resume\nbye\n" | nc cnrmurphy.com 2003 | tee cnr_resume.txt 
 ```
 
+**Contact:** conor@cnrmurphy.com
+
 <!--
 **cnrmurphy/cnrmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
